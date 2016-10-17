@@ -5,3 +5,7 @@ package App::ParseHosts;
 
 1;
 # ABSTRACT: Parse /etc/hosts (CLI)
+
+=head1 SEE ALSO
+
+L<Parse::Hosts>
